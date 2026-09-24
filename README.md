@@ -1,1 +1,0 @@
-# pddikti_hki_collector
